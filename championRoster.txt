@@ -1,0 +1,61 @@
+0 : [Name: Gangplank Origin: SpacePirate Class: Demolitionist Cost: 5] 
+1 : [Name: Kaisa Origin: Valkyrie Class: Infiltrator Cost: 2] [Name: Ezreal Origin: Chrono Class: Blaster Cost: 3] 
+2 : 
+3 : [Name: Annie Origin: MechPilot Class: Sorceror Cost: 2] 
+4 : [Name: Karma Origin: DarkStar Class: Mystic Cost: 3] [Name: Jayce Origin: SpacePirate Class: Vanguard Cost: 3] 
+5 : [Name: Rumble Origin: MechPilot Class: Demolitionist Cost: 3] [Name: Rakan Origin: Celestial Class: Protector Cost: 2] 
+6 : [Name: Shaco Origin: Dark Class: Star Cost: 3] [Name: Shaco Origin: DarkStar Class: Infiltrator Cost: 3] [Name: Graves Origin: SpacePirate Class: Blaster Cost: 1] [Name: Darius Origin: SpacePirate Class: ManaReaver Cost: 2] 
+7 : [Name: Leona Origin: Cybernetic Class: Vanguard Cost: 1] [Name: Blitzcrank Origin: Chrono Class: Brawler Cost: 2] 
+8 : [Name: Lux Origin: DarkStar Class: Sorceror Cost: 3] 
+9 : [Name: Fiora Origin: Cybernetic Class: Blademaster Cost: 1] 
+10 : [Name: Neeko Origin: StarGuardian Class: Protector Cost: 3] 
+11 : 
+12 : 
+13 : [Name: Khazix Origin: Void Class: Infiltrator Cost: 1] 
+14 : [Name: Kayle Origin: Valkyrie Class: Blademaster Cost: 4] 
+15 : [Name: Syndra Origin: StarGuardian Class: Sorceror Cost: 3] 
+16 : 
+17 : 
+18 : 
+19 : [Name: Ashe Origin: Celestial Class: Sniper Cost: 3] 
+20 : 
+21 : [Name: MasterYi Origin: Rebel Class: Blademaster Cost: 3] [Name: Kassadin Origin: Celestial Class: ManaReaver Cost: 3] 
+22 : [Name: Ahri Origin: StarGuardian Class: Sorceror Cost: 2] 
+23 : 
+24 : 
+25 : 
+26 : 
+27 : [Name: Malphite Origin: Rebel Class: Brawler Cost: 1] [Name: Jhin Origin: DarkStar Class: Sniper Cost: 4] 
+28 : [Name: Ekko Origin: Cybernetic Class: Infiltrator Cost: 5] 
+29 : 
+30 : 
+31 : 
+32 : [Name: Shen Origin: Chrono Class: Blademaster Cost: 2] 
+33 : 
+34 : 
+35 : [Name: Sona Origin: Rebel Class: Mystic Cost: 2] [Name: AurelionSol Origin: Rebel Class: Starship Cost: 5] 
+36 : 
+37 : [Name: JarvanIV Origin: DarkStar Class: Protector Cost: 1] 
+38 : 
+39 : 
+40 : 
+41 : 
+42 : 
+43 : [Name: Jinx Origin: Rebel Class: Blaster Cost: 4] 
+44 : [Name: Mordekaiser Origin: DarkStar Class: Vanguard Cost: 2] 
+45 : 
+46 : 
+47 : 
+48 : [Name: AHRI Origin: STARGUARDIAN Class: SORCEROR Cost: 2] [Name: Poppy Origin: StarGuardian Class: Vanguard Cost: 1] 
+49 : [Name: Irelia Origin: Cybernetic Class: Blademaster Cost: 4] 
+50 : 
+51 : 
+52 : [Name: Lulu Origin: Celestial Class: Mystic Cost: 5] 
+53 : [Name: MissFortune Origin: Valkyrie Class: Blaster Cost: 5] [Name: Fizz Origin: MechPilot Class: Infiltrator Cost: 4] [Name: Caitlyn Origin: Chrono Class: Sniper Cost: 1] 
+54 : 
+55 : [Name: Lucian Origin: Cybernetic Class: Blaster Cost: 1] 
+56 : 
+57 : 
+58 : 
+59 : 
+60 : [Name: Soraka Origin: StarGuardian Class: Mystic Cost: 4] [Name: ChoGath Origin: Void Class: Brawler Cost: 4] 

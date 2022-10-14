@@ -1,0 +1,404 @@
+Script started on Thu 14 May 2020 11:10:07 PM PDT
+]0;herna576@empress:~/cs311/CS311Progs/HWPrograms/TFTBuilder[?1034h[herna576@empress TFTBuilder]$ exitEXIT./a.outg++ builder.cpp slist.cpp llist.cpp elem.cpp htable.cpp
+]0;herna576@empress:~/cs311/CS311Progs/HWPrograms/TFTBuilder[herna576@empress TFTBuilder]$ ./a.out
+Welcome to the TFT team builder program! What would you like to do?
+
+1) Load a data file
+2) Search by Name (no spaces)
+3) Display the data on the screen
+4) Add a champion to the roster
+5) Delete a champion from the roster
+6) Save the data to a file
+7) Exit the program
+Please eneter your choice: 1
+Please input the file name: TFTdata.txt
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+ adding 
+Welcome to the TFT team builder program! What would you like to do?
+
+1) Load a data file
+2) Search by Name (no spaces)
+3) Display the data on the screen
+4) Add a champion to the roster
+5) Delete a champion from the roster
+6) Save the data to a file
+7) Exit the program
+Please eneter your choice: 2
+What champion name would you like to look for(all caps)? KAYLE
+Champion was found in slot # 8: [Name: KAYLE Origin: VALKYRIE Class: BLADEMASTER Cost: 4] 
+
+Welcome to the TFT team builder program! What would you like to do?
+
+1) Load a data file
+2) Search by Name (no spaces)
+3) Display the data on the screen
+4) Add a champion to the roster
+5) Delete a champion from the roster
+6) Save the data to a file
+7) Exit the program
+Please eneter your choice: 3
+0:[Name: SHACO Origin: DARKSTAR Class: INFILTRATOR Cost: 3]  [Name: SONA Origin: REBEL Class: MYSTIC Cost: 2]  
+1:[Name: LEONA Origin: CYBERNETIC Class: VANGUARD Cost: 1]  
+2:[EMPTY]
+3:[Name: FIORA Origin: CYBERNETIC Class: BLADEMASTER Cost: 1]  
+4:[Name: NEEKO Origin: STARGUARDIAN Class: PROTECTOR Cost: 3]  
+5:[Name: LUX Origin: DARKSTAR Class: SORCEROR Cost: 3]  
+6:[EMPTY]
+7:[EMPTY]
+8:[Name: JINX Origin: REBEL Class: BLASTER Cost: 4]  [Name: KAYLE Origin: VALKYRIE Class: BLADEMASTER Cost: 4]  
+9:[Name: MISSFORTUNE Origin: VALKYRIE Class: BLASTER Cost: 5]  
+10:[EMPTY]
+11:[Name: IRELIA Origin: CYBERNETIC Class: BLADEMASTER Cost: 4]  
+12:[Name: MASTERYI Origin: REBEL Class: BLADEMASTER Cost: 3]  
+13:[Name: XAYAH Origin: CELESTIAL Class: BLADEMASTER Cost: 1]  
+14:[EMPTY]
+15:[EMPTY]
+16:[EMPTY]
+17:[Name: LUCIAN Origin: CYBERNETIC Class: BLASTER Cost: 1]  [Name: LULU Origin: CELESTIAL Class: MYSTIC Cost: 5]  
+18:[Name: FIZZ Origin: MECHPILOT Class: INFILTRATOR Cost: 4]  
+19:[EMPTY]
+20:[EMPTY]
+21:[EMPTY]
+22:[Name: CHOGATH Origin: VOID Class: BRAWLER Cost: 4]  [Name: SORAKA Origin: STARGUARDIAN Class: MYSTIC Cost: 4]  [Name: ZIGGS Origin: REBEL Class: DEMOLITIONIST Cost: 1]  
+23:[EMPTY]
+24:[Name: BLITZCRANK Origin: CHRONO Class: BRAWLER Cost: 2]  [Name: EZREAL Origin: CHRONO Class: BLASTER Cost: 3]  
+25:[EMPTY]
+26:[EMPTY]
+27:[EMPTY]
+28:[Name: RUMBLE Origin: MECHPILOT Class: DEMOLITIONIST Cost: 3]  
+29:[Name: DARIUS Origin: SPACEPIRATE Class: MANAREAVER Cost: 2]  [Name: GRAVES Origin: SPACEPIRATE Class: BLASTER Cost: 1]  [Name: MORDEKAISER Origin: DARKSTAR Class: VANGUARD Cost: 2]  
+30:[EMPTY]
+31:[EMPTY]
+32:[EMPTY]
+33:[EMPTY]
+34:[EMPTY]
+35:[Name: THRESH Origin: CHRONO Class: MANAREAVER Cost: 5]  [Name: YASUO Origin: REBEL Class: BLADEMASTER Cost: 2]  
+36:[Name: KHAZIX Origin: VOID Class: INFILTRATOR Cost: 1]  
+37:[Name: VI Origin: CYBERNETIC Class: BRAWLER Cost: 3]  
+38:[Name: SYNDRA Origin: STARGUARDIAN Class: SORCEROR Cost: 3]  
+39:[EMPTY]
+40:[EMPTY]
+41:[Name: KASSADIN Origin: CELESTIAL Class: MANAREAVER Cost: 3]  
+42:[Name: POPPY Origin: STARGUARDIAN Class: VANGUARD Cost: 1]  
+43:[Name: TWISTEDFATE Origin: CHRONO Class: SORCEROR Cost: 1]  
+44:[Name: CAITLYN Origin: CHRONO Class: SNIPER Cost: 1]  
+45:[Name: ASHE Origin: CELESTIAL Class: SNIPER Cost: 3]  
+46:[EMPTY]
+47:[Name: MALPHITE Origin: REBEL Class: BRAWLER Cost: 1]  
+48:[Name: AHRI Origin: STARGUARDIAN Class: SORCEROR Cost: 2]  [Name: VELKOZ Origin: VOID Class: SORCEROR Cost: 4]  [Name: WUKONG Origin: CHRONO Class: VANGUARD Cost: 4]  
+49:[Name: GANGPLANK Origin: SPACEPIRATE Class: DEMOLITIONIST Cost: 5]  
+50:[EMPTY]
+51:[EMPTY]
+52:[Name: AURELIONSOL Origin: REBEL Class: STARSHIP Cost: 5]  
+53:[Name: JHIN Origin: DARKSTAR Class: SNIPER Cost: 4]  
+54:[Name: EKKO Origin: CYBERNETIC Class: INFILTRATOR Cost: 5]  
+55:[Name: ZOE Origin: STARGUARDIAN Class: SORCEROR Cost: 1]  
+56:[Name: KAISA Origin: VALKYRIE Class: INFILTRATOR Cost: 2]  
+57:[Name: XINZHAO Origin: CELESTIAL Class: PROTECTOR Cost: 2]  
+58:[Name: ANNIE Origin: MECHPILOT Class: SORCEROR Cost: 2]  [Name: SHEN Origin: CHRONO Class: BLADEMASTER Cost: 2]  
+59:[Name: JAYCE Origin: SPACEPIRATE Class: VANGUARD Cost: 3]  [Name: KARMA Origin: DARKSTAR Class: MYSTIC Cost: 3]  
+60:[Name: JARVANIV Origin: DARKSTAR Class: PROTECTOR Cost: 1]  [Name: RAKAN Origin: CELESTIAL Class: PROTECTOR Cost: 2]  
+Welcome to the TFT team builder program! What would you like to do?
+
+1) Load a data file
+2) Search by Name (no spaces)
+3) Display the data on the screen
+4) Add a champion to the roster
+5) Delete a champion from the roster
+6) Save the data to a file
+7) Exit the program
+Please eneter your choice: 4
+Which champion would you like to add to your roster? JOSHUA
+What origin is it? DARKSTAR
+What class is it? INFILTRATOR
+How much does it cost? 4
+You have added JOSHUA to your roster!
+Welcome to the TFT team builder program! What would you like to do?
+
+1) Load a data file
+2) Search by Name (no spaces)
+3) Display the data on the screen
+4) Add a champion to the roster
+5) Delete a champion from the roster
+6) Save the data to a file
+7) Exit the program
+Please eneter your choice: 3
+0:[Name: SHACO Origin: DARKSTAR Class: INFILTRATOR Cost: 3]  [Name: SONA Origin: REBEL Class: MYSTIC Cost: 2]  
+1:[Name: LEONA Origin: CYBERNETIC Class: VANGUARD Cost: 1]  
+2:[EMPTY]
+3:[Name: FIORA Origin: CYBERNETIC Class: BLADEMASTER Cost: 1]  
+4:[Name: NEEKO Origin: STARGUARDIAN Class: PROTECTOR Cost: 3]  
+5:[Name: LUX Origin: DARKSTAR Class: SORCEROR Cost: 3]  
+6:[EMPTY]
+7:[EMPTY]
+8:[Name: JINX Origin: REBEL Class: BLASTER Cost: 4]  [Name: KAYLE Origin: VALKYRIE Class: BLADEMASTER Cost: 4]  
+9:[Name: MISSFORTUNE Origin: VALKYRIE Class: BLASTER Cost: 5]  
+10:[EMPTY]
+11:[Name: IRELIA Origin: CYBERNETIC Class: BLADEMASTER Cost: 4]  
+12:[Name: MASTERYI Origin: REBEL Class: BLADEMASTER Cost: 3]  
+13:[Name: XAYAH Origin: CELESTIAL Class: BLADEMASTER Cost: 1]  
+14:[EMPTY]
+15:[EMPTY]
+16:[EMPTY]
+17:[Name: LUCIAN Origin: CYBERNETIC Class: BLASTER Cost: 1]  [Name: LULU Origin: CELESTIAL Class: MYSTIC Cost: 5]  
+18:[Name: FIZZ Origin: MECHPILOT Class: INFILTRATOR Cost: 4]  
+19:[EMPTY]
+20:[EMPTY]
+21:[EMPTY]
+22:[Name: CHOGATH Origin: VOID Class: BRAWLER Cost: 4]  [Name: SORAKA Origin: STARGUARDIAN Class: MYSTIC Cost: 4]  [Name: ZIGGS Origin: REBEL Class: DEMOLITIONIST Cost: 1]  
+23:[EMPTY]
+24:[Name: BLITZCRANK Origin: CHRONO Class: BRAWLER Cost: 2]  [Name: EZREAL Origin: CHRONO Class: BLASTER Cost: 3]  
+25:[EMPTY]
+26:[EMPTY]
+27:[EMPTY]
+28:[Name: RUMBLE Origin: MECHPILOT Class: DEMOLITIONIST Cost: 3]  
+29:[Name: DARIUS Origin: SPACEPIRATE Class: MANAREAVER Cost: 2]  [Name: GRAVES Origin: SPACEPIRATE Class: BLASTER Cost: 1]  [Name: MORDEKAISER Origin: DARKSTAR Class: VANGUARD Cost: 2]  
+30:[EMPTY]
+31:[Name: JOSHUA Origin: DARKSTAR Class: INFILTRATOR Cost: 4]  
+32:[EMPTY]
+33:[EMPTY]
+34:[EMPTY]
+35:[Name: THRESH Origin: CHRONO Class: MANAREAVER Cost: 5]  [Name: YASUO Origin: REBEL Class: BLADEMASTER Cost: 2]  
+36:[Name: KHAZIX Origin: VOID Class: INFILTRATOR Cost: 1]  
+37:[Name: VI Origin: CYBERNETIC Class: BRAWLER Cost: 3]  
+38:[Name: SYNDRA Origin: STARGUARDIAN Class: SORCEROR Cost: 3]  
+39:[EMPTY]
+40:[EMPTY]
+41:[Name: KASSADIN Origin: CELESTIAL Class: MANAREAVER Cost: 3]  
+42:[Name: POPPY Origin: STARGUARDIAN Class: VANGUARD Cost: 1]  
+43:[Name: TWISTEDFATE Origin: CHRONO Class: SORCEROR Cost: 1]  
+44:[Name: CAITLYN Origin: CHRONO Class: SNIPER Cost: 1]  
+45:[Name: ASHE Origin: CELESTIAL Class: SNIPER Cost: 3]  
+46:[EMPTY]
+47:[Name: MALPHITE Origin: REBEL Class: BRAWLER Cost: 1]  
+48:[Name: AHRI Origin: STARGUARDIAN Class: SORCEROR Cost: 2]  [Name: VELKOZ Origin: VOID Class: SORCEROR Cost: 4]  [Name: WUKONG Origin: CHRONO Class: VANGUARD Cost: 4]  
+49:[Name: GANGPLANK Origin: SPACEPIRATE Class: DEMOLITIONIST Cost: 5]  
+50:[EMPTY]
+51:[EMPTY]
+52:[Name: AURELIONSOL Origin: REBEL Class: STARSHIP Cost: 5]  
+53:[Name: JHIN Origin: DARKSTAR Class: SNIPER Cost: 4]  
+54:[Name: EKKO Origin: CYBERNETIC Class: INFILTRATOR Cost: 5]  
+55:[Name: ZOE Origin: STARGUARDIAN Class: SORCEROR Cost: 1]  
+56:[Name: KAISA Origin: VALKYRIE Class: INFILTRATOR Cost: 2]  
+57:[Name: XINZHAO Origin: CELESTIAL Class: PROTECTOR Cost: 2]  
+58:[Name: ANNIE Origin: MECHPILOT Class: SORCEROR Cost: 2]  [Name: SHEN Origin: CHRONO Class: BLADEMASTER Cost: 2]  
+59:[Name: JAYCE Origin: SPACEPIRATE Class: VANGUARD Cost: 3]  [Name: KARMA Origin: DARKSTAR Class: MYSTIC Cost: 3]  
+60:[Name: JARVANIV Origin: DARKSTAR Class: PROTECTOR Cost: 1]  [Name: RAKAN Origin: CELESTIAL Class: PROTECTOR Cost: 2]  
+Welcome to the TFT team builder program! What would you like to do?
+
+1) Load a data file
+2) Search by Name (no spaces)
+3) Display the data on the screen
+4) Add a champion to the roster
+5) Delete a champion from the roster
+6) Save the data to a file
+7) Exit the program
+Please eneter your choice: 5
+What champion would you like to delete? JOSHUA
+Welcome to the TFT team builder program! What would you like to do?
+
+1) Load a data file
+2) Search by Name (no spaces)
+3) Display the data on the screen
+4) Add a champion to the roster
+5) Delete a champion from the roster
+6) Save the data to a file
+7) Exit the program
+Please eneter your choice: 3
+0:[Name: SHACO Origin: DARKSTAR Class: INFILTRATOR Cost: 3]  [Name: SONA Origin: REBEL Class: MYSTIC Cost: 2]  
+1:[Name: LEONA Origin: CYBERNETIC Class: VANGUARD Cost: 1]  
+2:[EMPTY]
+3:[Name: FIORA Origin: CYBERNETIC Class: BLADEMASTER Cost: 1]  
+4:[Name: NEEKO Origin: STARGUARDIAN Class: PROTECTOR Cost: 3]  
+5:[Name: LUX Origin: DARKSTAR Class: SORCEROR Cost: 3]  
+6:[EMPTY]
+7:[EMPTY]
+8:[Name: JINX Origin: REBEL Class: BLASTER Cost: 4]  [Name: KAYLE Origin: VALKYRIE Class: BLADEMASTER Cost: 4]  
+9:[Name: MISSFORTUNE Origin: VALKYRIE Class: BLASTER Cost: 5]  
+10:[EMPTY]
+11:[Name: IRELIA Origin: CYBERNETIC Class: BLADEMASTER Cost: 4]  
+12:[Name: MASTERYI Origin: REBEL Class: BLADEMASTER Cost: 3]  
+13:[Name: XAYAH Origin: CELESTIAL Class: BLADEMASTER Cost: 1]  
+14:[EMPTY]
+15:[EMPTY]
+16:[EMPTY]
+17:[Name: LUCIAN Origin: CYBERNETIC Class: BLASTER Cost: 1]  [Name: LULU Origin: CELESTIAL Class: MYSTIC Cost: 5]  
+18:[Name: FIZZ Origin: MECHPILOT Class: INFILTRATOR Cost: 4]  
+19:[EMPTY]
+20:[EMPTY]
+21:[EMPTY]
+22:[Name: CHOGATH Origin: VOID Class: BRAWLER Cost: 4]  [Name: SORAKA Origin: STARGUARDIAN Class: MYSTIC Cost: 4]  [Name: ZIGGS Origin: REBEL Class: DEMOLITIONIST Cost: 1]  
+23:[EMPTY]
+24:[Name: BLITZCRANK Origin: CHRONO Class: BRAWLER Cost: 2]  [Name: EZREAL Origin: CHRONO Class: BLASTER Cost: 3]  
+25:[EMPTY]
+26:[EMPTY]
+27:[EMPTY]
+28:[Name: RUMBLE Origin: MECHPILOT Class: DEMOLITIONIST Cost: 3]  
+29:[Name: DARIUS Origin: SPACEPIRATE Class: MANAREAVER Cost: 2]  [Name: GRAVES Origin: SPACEPIRATE Class: BLASTER Cost: 1]  [Name: MORDEKAISER Origin: DARKSTAR Class: VANGUARD Cost: 2]  
+30:[EMPTY]
+31:[EMPTY]
+32:[EMPTY]
+33:[EMPTY]
+34:[EMPTY]
+35:[Name: THRESH Origin: CHRONO Class: MANAREAVER Cost: 5]  [Name: YASUO Origin: REBEL Class: BLADEMASTER Cost: 2]  
+36:[Name: KHAZIX Origin: VOID Class: INFILTRATOR Cost: 1]  
+37:[Name: VI Origin: CYBERNETIC Class: BRAWLER Cost: 3]  
+38:[Name: SYNDRA Origin: STARGUARDIAN Class: SORCEROR Cost: 3]  
+39:[EMPTY]
+40:[EMPTY]
+41:[Name: KASSADIN Origin: CELESTIAL Class: MANAREAVER Cost: 3]  
+42:[Name: POPPY Origin: STARGUARDIAN Class: VANGUARD Cost: 1]  
+43:[Name: TWISTEDFATE Origin: CHRONO Class: SORCEROR Cost: 1]  
+44:[Name: CAITLYN Origin: CHRONO Class: SNIPER Cost: 1]  
+45:[Name: ASHE Origin: CELESTIAL Class: SNIPER Cost: 3]  
+46:[EMPTY]
+47:[Name: MALPHITE Origin: REBEL Class: BRAWLER Cost: 1]  
+48:[Name: AHRI Origin: STARGUARDIAN Class: SORCEROR Cost: 2]  [Name: VELKOZ Origin: VOID Class: SORCEROR Cost: 4]  [Name: WUKONG Origin: CHRONO Class: VANGUARD Cost: 4]  
+49:[Name: GANGPLANK Origin: SPACEPIRATE Class: DEMOLITIONIST Cost: 5]  
+50:[EMPTY]
+51:[EMPTY]
+52:[Name: AURELIONSOL Origin: REBEL Class: STARSHIP Cost: 5]  
+53:[Name: JHIN Origin: DARKSTAR Class: SNIPER Cost: 4]  
+54:[Name: EKKO Origin: CYBERNETIC Class: INFILTRATOR Cost: 5]  
+55:[Name: ZOE Origin: STARGUARDIAN Class: SORCEROR Cost: 1]  
+56:[Name: KAISA Origin: VALKYRIE Class: INFILTRATOR Cost: 2]  
+57:[Name: XINZHAO Origin: CELESTIAL Class: PROTECTOR Cost: 2]  
+58:[Name: ANNIE Origin: MECHPILOT Class: SORCEROR Cost: 2]  [Name: SHEN Origin: CHRONO Class: BLADEMASTER Cost: 2]  
+59:[Name: JAYCE Origin: SPACEPIRATE Class: VANGUARD Cost: 3]  [Name: KARMA Origin: DARKSTAR Class: MYSTIC Cost: 3]  
+60:[Name: JARVANIV Origin: DARKSTAR Class: PROTECTOR Cost: 1]  [Name: RAKAN Origin: CELESTIAL Class: PROTECTOR Cost: 2]  
+Welcome to the TFT team builder program! What would you like to do?
+
+1) Load a data file
+2) Search by Name (no spaces)
+3) Display the data on the screen
+4) Add a champion to the roster
+5) Delete a champion from the roster
+6) Save the data to a file
+7) Exit the program
+Please eneter your choice: 6
+Welcome to the TFT team builder program! What would you like to do?
+
+1) Load a data file
+2) Search by Name (no spaces)
+3) Display the data on the screen
+4) Add a champion to the roster
+5) Delete a champion from the roster
+6) Save the data to a file
+7) Exit the program
+Please eneter your choice: 7
+thank you for using the TFT builder program!
+]0;herna576@empress:~/cs311/CS311Progs/HWPrograms/TFTBuilder[herna576@empress TFTBuilder]$ exit[K[K[K[Kcat TFT[K[K[KCH[Kh[K[KchampionRoster.txt 
+0 : [Name: SONA Origin: REBEL Class: MYSTIC Cost: 2] [Name: SHACO Origin: DARKSTAR Class: INFILTRATOR Cost: 3] 
+1 : [Name: LEONA Origin: CYBERNETIC Class: VANGUARD Cost: 1] 
+2 : 
+3 : [Name: FIORA Origin: CYBERNETIC Class: BLADEMASTER Cost: 1] 
+4 : [Name: NEEKO Origin: STARGUARDIAN Class: PROTECTOR Cost: 3] 
+5 : [Name: LUX Origin: DARKSTAR Class: SORCEROR Cost: 3] 
+6 : 
+7 : 
+8 : [Name: KAYLE Origin: VALKYRIE Class: BLADEMASTER Cost: 4] [Name: JINX Origin: REBEL Class: BLASTER Cost: 4] 
+9 : [Name: MISSFORTUNE Origin: VALKYRIE Class: BLASTER Cost: 5] 
+10 : 
+11 : [Name: IRELIA Origin: CYBERNETIC Class: BLADEMASTER Cost: 4] 
+12 : [Name: MASTERYI Origin: REBEL Class: BLADEMASTER Cost: 3] 
+13 : [Name: XAYAH Origin: CELESTIAL Class: BLADEMASTER Cost: 1] 
+14 : 
+15 : 
+16 : 
+17 : [Name: LULU Origin: CELESTIAL Class: MYSTIC Cost: 5] [Name: LUCIAN Origin: CYBERNETIC Class: BLASTER Cost: 1] 
+18 : [Name: FIZZ Origin: MECHPILOT Class: INFILTRATOR Cost: 4] 
+19 : 
+20 : 
+21 : 
+22 : [Name: ZIGGS Origin: REBEL Class: DEMOLITIONIST Cost: 1] [Name: SORAKA Origin: STARGUARDIAN Class: MYSTIC Cost: 4] [Name: CHOGATH Origin: VOID Class: BRAWLER Cost: 4] 
+23 : 
+24 : [Name: EZREAL Origin: CHRONO Class: BLASTER Cost: 3] [Name: BLITZCRANK Origin: CHRONO Class: BRAWLER Cost: 2] 
+25 : 
+26 : 
+27 : 
+28 : [Name: RUMBLE Origin: MECHPILOT Class: DEMOLITIONIST Cost: 3] 
+29 : [Name: MORDEKAISER Origin: DARKSTAR Class: VANGUARD Cost: 2] [Name: GRAVES Origin: SPACEPIRATE Class: BLASTER Cost: 1] [Name: DARIUS Origin: SPACEPIRATE Class: MANAREAVER Cost: 2] 
+30 : 
+31 : 
+32 : 
+33 : 
+34 : 
+35 : [Name: YASUO Origin: REBEL Class: BLADEMASTER Cost: 2] [Name: THRESH Origin: CHRONO Class: MANAREAVER Cost: 5] 
+36 : [Name: KHAZIX Origin: VOID Class: INFILTRATOR Cost: 1] 
+37 : [Name: VI Origin: CYBERNETIC Class: BRAWLER Cost: 3] 
+38 : [Name: SYNDRA Origin: STARGUARDIAN Class: SORCEROR Cost: 3] 
+39 : 
+40 : 
+41 : [Name: KASSADIN Origin: CELESTIAL Class: MANAREAVER Cost: 3] 
+42 : [Name: POPPY Origin: STARGUARDIAN Class: VANGUARD Cost: 1] 
+43 : [Name: TWISTEDFATE Origin: CHRONO Class: SORCEROR Cost: 1] 
+44 : [Name: CAITLYN Origin: CHRONO Class: SNIPER Cost: 1] 
+45 : [Name: ASHE Origin: CELESTIAL Class: SNIPER Cost: 3] 
+46 : 
+47 : [Name: MALPHITE Origin: REBEL Class: BRAWLER Cost: 1] 
+48 : [Name: WUKONG Origin: CHRONO Class: VANGUARD Cost: 4] [Name: VELKOZ Origin: VOID Class: SORCEROR Cost: 4] [Name: AHRI Origin: STARGUARDIAN Class: SORCEROR Cost: 2] 
+49 : [Name: GANGPLANK Origin: SPACEPIRATE Class: DEMOLITIONIST Cost: 5] 
+50 : 
+51 : 
+52 : [Name: AURELIONSOL Origin: REBEL Class: STARSHIP Cost: 5] 
+53 : [Name: JHIN Origin: DARKSTAR Class: SNIPER Cost: 4] 
+54 : [Name: EKKO Origin: CYBERNETIC Class: INFILTRATOR Cost: 5] 
+55 : [Name: ZOE Origin: STARGUARDIAN Class: SORCEROR Cost: 1] 
+56 : [Name: KAISA Origin: VALKYRIE Class: INFILTRATOR Cost: 2] 
+57 : [Name: XINZHAO Origin: CELESTIAL Class: PROTECTOR Cost: 2] 
+58 : [Name: SHEN Origin: CHRONO Class: BLADEMASTER Cost: 2] [Name: ANNIE Origin: MECHPILOT Class: SORCEROR Cost: 2] 
+59 : [Name: KARMA Origin: DARKSTAR Class: MYSTIC Cost: 3] [Name: JAYCE Origin: SPACEPIRATE Class: VANGUARD Cost: 3] 
+60 : [Name: RAKAN Origin: CELESTIAL Class: PROTECTOR Cost: 2] [Name: JARVANIV Origin: DARKSTAR Class: PROTECTOR Cost: 1] 
+]0;herna576@empress:~/cs311/CS311Progs/HWPrograms/TFTBuilder[herna576@empress TFTBuilder]$ exit
+exit
+
+Script done on Thu 14 May 2020 11:11:59 PM PDT
